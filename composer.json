@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Send notifications through firebase using php",
 	"keywords": ["php", "firebase", "notification", "komicho"],
-	"homepage": "https://github.com/komicho/firebase",
+	"homepage": "https://github.com/komichoLab/firebase",
 	"authors": [
 		{
 			"name": "komicho",
